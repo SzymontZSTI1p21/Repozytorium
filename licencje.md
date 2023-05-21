@@ -38,4 +38,4 @@ Licencja GNU Lesser General Public License v2.1 (LGPL) to wersja licencji GPL z 
 Licencja Mozilla Public License 2.0 jest licencją open source, która pozwala na używanie, modyfikowanie i dystrybucję oprogramowania zarówno w formie źródłowej, jak i skompilowanej. Wymaga udostępnienia zmodyfikowanego kodu źródłowego i zachowania informacji o prawach autorskich. Licencja ta obejmuje również pewne warunki dotyczące patentów.
 
 ## The Unlicense:
-The Unlicense to forma "no-nonsense" licencji, która umożliwia twórcom zwolnienie swojego dzieła z praw autorskich. Autorzy decydują się na usunięcie wszelkich praw autorskich i udzielają użytkownikom prawa do używania, kopiowania, modyfik
+The Unlicense to forma "no-nonsense" licencji, która umożliwia twórcom zwolnienie swojego dzieła z praw autorskich. Autorzy decydują się na usunięcie wszelkich praw autorskich i udzielają użytkownikom prawa do używania, kopiowania, modyfikowania i rozpowszechniania oprogramowania bez żadnych ograniczeń. Licencja ta pozwala na traktowanie pracy jako domeny publicznej, umożliwiając innym swobodne korzystanie z niej.
