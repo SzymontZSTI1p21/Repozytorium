@@ -2,7 +2,7 @@
 Opis
 NOVAK-MED to aplikacja stworzona dla prywatnej przychodni medycznej, która umożliwia pacjentom umawianie wizyt online. Aplikacja oferuje prosty kalendarz, który umożliwia wybieranie preferowanej daty wizyty. Jeśli wybrany termin jest zajęty, aplikacja sugeruje najbliższy wolny termin dla pacjenta. Interfejs programu zawiera również okienko, w którym pacjenci mogą wpisać swoje dolegliwości oraz wybrać lekarza specjalistę, u którego chcą mieć wizytę. Przewidywany koszt wizyty jest również wyświetlany.
 
-Wymagania
+##Wymagania
 Kalendarz z wybieraniem daty wizyty: Aplikacja powinna zawierać interaktywny kalendarz, który umożliwia pacjentom wybór preferowanej daty wizyty. Kalendarz powinien być łatwy w obsłudze i wyświetlać dostępne terminy.
 
 Funkcja sprawdzająca dostępność terminu: Jeśli wybrany termin jest zajęty, aplikacja powinna informować pacjenta o tym fakcie i sugerować najbliższy wolny termin dostępny dla pacjenta. To pomoże w uniknięciu nieporozumień i konfliktów terminowych.
@@ -13,13 +13,13 @@ Dodatkowe pola dla opisu dolegliwości: Aplikacja powinna zawierać pola, w któ
 
 Logowanie jako lekarz wraz ze specjalizacją: Aplikacja powinna zapewniać logowanie dla lekarzy, w tym podawanie informacji o ich specjalizacji. To umożliwi pacjentom wybór odpowiedniego lekarza specjalisty podczas umawiania wizyt.
 
-Instalacja i Uruchamianie
+##Instalacja i Uruchamianie
 1.Sklonuj repozytorium na swoje lokalne środowisko.
 2.Uruchom aplikację na swoim serwerze lokalnym lub w chmurze.
 3.Skonfiguruj wymagane zależności i środowisko uruchomieniowe.
 4.Uruchom aplikację i przetestuj jej funkcjonalności.
 
-Kontrybucja
+##Kontrybucja
 Jeśli masz pomysły lub chciałbyś przyczynić się do rozwoju projektu NOVAK-MED, jesteśmy otwarci na kontrybucje! Możesz pomóc poprawiając istniejące funkcje, dodając nowe funkcje, zgłaszając błędy, a także poprawiając dokumentację.
 
 Aby przyczynić się do projektu, postępuj zgodnie z poniższymi krokami:
@@ -33,10 +33,10 @@ Aby przyczynić się do projektu, postępuj zgodnie z poniższymi krokami:
 7.Twój pull request zostanie przejrzany przez zespół projektu i dostaniesz odpowiedź na temat jego akceptacji lub ewentualnych sugestii.
 8.Zachęcamy do przyczyniania się do projektu NOVAK-MED i dziękujemy za Twoje zaangażowanie!
 
-Licencja
+##Licencja
 Ten projekt jest licencjonowany na podstawie licencji MIT License. Więcej informacji można znaleźć w pliku LICENSE.
 
-Kontakt
+##Kontakt
 Jeśli masz pytania lub sugestie dotyczące projektu NOVAK-MED, skontaktuj się z nami pod adresem adres-email@example.com. Jesteśmy otwarci na wszelkie opinie i chętnie pomożemy w razie potrzeby.
 
 Dziękujemy za zainteresowanie projektem NOVAK-MED i zapraszamy do współpracy!
