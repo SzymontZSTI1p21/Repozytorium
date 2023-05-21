@@ -1,0 +1,43 @@
+1.Apache License 2.0: Licencja Apache 2.0 jest przyjazna dla korporacji i obejmuje zarówno prace oryginalne,
+jak i modyfikacje. Użytkownikom zezwala się na użycie, modyfikację i dystrybucję oprogramowania zarówno w formie źródłowej,
+jak i skompilowanej. Licencja ta wymaga umieszczenia odpowiednich informacji o prawach autorskich oraz warunków licencji.
+
+2.GNU General Public License 3.0: Licencja GPL 3.0 zapewnia użytkownikom prawo do używania,
+kopiowania, modyfikowania i rozpowszechniania oprogramowania w formie źródłowej lub skompilowanej. W przypadku dystrybucji oprogramowania zgodnie z tą licencją, całość pracy, w tym również modyfikacje, musi być dostępna na licencji GPL.
+
+3.MIT License: Licencja MIT jest bardzo elastyczna i upraszcza zasady używania, kopiowania,
+modyfikowania i dystrybuowania oprogramowania. Użytkownicy mogą swobodnie używać i modyfikować kod źródłowy, a jedynym wymogiem jest dołączenie informacji o prawach autorskich.
+
+4.BSD-2-Clause "Simplified" License: Licencja BSD-2-Clause jest krótką i uproszczoną wersją licencji BSD. Pozwala na użytkowanie,
+kopiowanie i rozpowszechnianie oprogramowania z zastrzeżeniem zachowania informacji o prawach autorskich.
+
+5.BSD-3-Clause "New" or "Revised" License: Licencja BSD-3-Clause jest bardziej rozbudowaną wersją licencji BSD. Pozwala na użytkowanie, kopiowanie,
+modyfikowanie i rozpowszechnianie oprogramowania wraz z zachowaniem informacji o prawach autorskich. W przypadku dystrybucji, licencja ta wymaga umieszczenia dodatkowych warunków licencyjnych.
+
+6.Boost Software License 1.0: Licencja Boost Software License 1.0 jest elastyczną licencją, która pozwala na używanie, kopiowanie, modyfikowanie i dystrybuowanie oprogramowania zarówno w formie źródłowej,
+jak i skompilowanej. Wymaga ona zachowania informacji o prawach autorskich oraz warunków licencji.
+
+7.Creative Commons Zero 1.0 Universal: Creative Commons Zero 1.0 Universal to licencja, która umożliwia twórcom zwolnienie swojego dzieła z praw autorskich.
+Pozwala na używanie, kopiowanie, modyfikowanie i rozpowszechnianie oprogramowania bez żadnych ograniczeń.
+
+8.Eclipse Public License 2.0: Licencja Eclipse Public License 2.0 jest licencją otwartego oprogramowania, która pozwala na używanie, modyfikowanie i dystrybuowanie oprogramowania zarówno w formie źródłowej, jak i skompilowanej.
+Jednak w przypadku dystrybucji zmodyfikowanej wersji kodu źródłowego, licencja ta wymaga udostępnienia zmian wraz z oryginalnym kodem.
+Dodatkowo, licencja ta może zawierać również niektóre warunki dotyczące patentów i znaków towarowych.
+
+9.GNU Affero General Public License 3.0: Licencja GNU Affero General Public License 3.0 jest oparta na licencji GPL 3.0 i ma podobne zasady.
+Jednak dodatkowo wymaga, aby udostępniający oprogramowanie przez sieć (np. jako usługę sieciową) udostępnił również kod źródłowy swojej modyfikacji.
+Oznacza to, że użytkownicy będą mieli dostęp do zmodyfikowanego kodu źródłowego, nawet jeśli nie otrzymają fizycznej kopii oprogramowania.
+
+10.GNU General Public License v2.0: Licencja GNU General Public License v2.0 jest starszą wersją licencji GPL.
+Pozwala na używanie, modyfikowanie i rozpowszechnianie oprogramowania, pod warunkiem, że prace pochodne również zostaną udostępnione na licencji GPL.
+Licencja ta zawiera również warunki dotyczące umieszczenia informacji o prawach autorskich oraz odpowiednich klauzul odnośnie gwarancji.
+
+11.GNU Lesser General Public License v2.1: Licencja GNU Lesser General Public License v2.1 (LGPL) jest wersją licencji GPL z mniej restrykcyjnymi wymaganiami dotyczącymi prac pochodnych.
+Umożliwia korzystanie z bibliotek lub komponentów oprogramowania na warunkach licencji LGPL, a niekoniecznie wymaga udostępniania kodu źródłowego aplikacji, która wykorzystuje te biblioteki.
+
+12.Mozilla Public License 2.0: Licencja Mozilla Public License 2.0 jest licencją open source, która pozwala na używanie,
+modyfikowanie i dystrybucję oprogramowania zarówno w formie źródłowej, jak i skompilowanej.
+Wymaga ona udostępnienia zmodyfikowanego kodu źródłowego i zachowania informacji o prawach autorskich. Licencja ta obejmuje również pewne warunki dotyczące patentów.
+
+13.The Unlicense: The Unlicense to forma "no-nonsense" licencji, która umożliwia twórcom zwolnienie swojego dzieła z praw autorskich. Autorzy decydują się na usunięcie wszelkich praw autorskich i udzielają użytkownikom prawa do używania,
+kopiowania, modyfikowania i rozpowszechniania oprogramowania bez żadnych ograniczeń. Licencja ta pozwala na traktowanie pracy jako domeny publicznej, umożliwiając innym swobodne korzystanie z niej.
