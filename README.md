@@ -5,6 +5,7 @@
 - MySQL,
 - HTML,
 - CSS,
+
 a moja specjalizacja koncentruje się szczególnie na. Moje umiejętności w tych obszarach pozwalają mi tworzyć piękne i responsywne interfejsy użytkownika.
 
 ## W JavaScript 
