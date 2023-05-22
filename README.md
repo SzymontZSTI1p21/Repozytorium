@@ -16,21 +16,14 @@ NOVAK-MED to aplikacja stworzona dla prywatnej przychodni medycznej, która umo�
 
 - **Logowanie jako lekarz wraz ze specjalizacją:** Aplikacja powinna zapewniać logowanie dla lekarzy, w tym podawanie informacji o ich specjalizacji. To umożliwi pacjentom wybór odpowiedniego lekarza specjalisty podczas umawiania wizyt.
 
-## Kontrybucja
+## Funkcje
+- Rejestracja pacjentów: Pacjenci mogą zarejestrować się w aplikacji, tworząc swoje konta i wprowadzając swoje dane osobowe.
 
-Aby przyczynić się do rozwoju projektu NOVAK-MED, zachęcamy do kontrybucji! Możesz pomóc poprawiając istniejące funkcje, dodając nowe funkcje, zgłaszając błędy oraz poprawiając dokumentację.
+- Przegląd lekarzy: Pacjenci mogą przeglądać listę dostępnych lekarzy specjalistów w przychodni NOVAK-MED oraz zapoznać się z ich specjalizacjami.
 
-Aby przyczynić się do projektu, postępuj zgodnie z poniższymi krokami:
+- Umawianie wizyt: Pacjenci mogą wybrać lekarza i dostępne terminy wizyt, a następnie umówić się na dogodny termin.
 
-- **Sklonuj repozytorium na swoje lokalne środowisko.
-- **Utwórz nowy branch, który opisuje wprowadzane zmiany.
-- **Dokonaj zmian i wprowadź odpowiednie ulepszenia.
-- **Przetestuj swoje zmiany, aby upewnić się, że nie powodują żadnych błędów.
-- **Zatwierdź swoje zmiany i prześlij pull request.
-- **Opisz dokładnie wprowadzone zmiany oraz uzasadnij, dlaczego powinny zostać uwzględnione.
-- **Twój pull request zostanie przejrzany przez zespół projektu, a otrzymasz informację zwrotną odnośnie jego akceptacji lub sugestii.
-- **Czekaj na zatwierdzenie i scalenie swoich zmian z głównym kodem projektu.
-- **Zachęcamy do aktywnego uczestnictwa w projekcie NOVAK-MED i dziękujemy za Twoje zaangażowanie!
+- Przegląd historii wizyt: Pacjenci mają dostęp do historii swoich wizyt, wraz z informacjami o lekarzach, datach wizyt i wprowadzonymi notatkami.
 
 ## Licencja
 Licencja MIT (MIT License) jest jedną z najbardziej popularnych otwartych licencji oprogramowania. Jest to permutacja licencji BSD, a jej głównym celem jest zapewnienie elastyczności i swobody w użyciu, kopiowaniu, modyfikowaniu i dystrybucji oprogramowania.
