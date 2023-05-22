@@ -16,13 +16,6 @@ NOVAK-MED to aplikacja stworzona dla prywatnej przychodni medycznej, która umo�
 
 - **Logowanie jako lekarz wraz ze specjalizacją:** Aplikacja powinna zapewniać logowanie dla lekarzy, w tym podawanie informacji o ich specjalizacji. To umożliwi pacjentom wybór odpowiedniego lekarza specjalisty podczas umawiania wizyt.
 
-## Instalacja i Uruchamianie
-
-1. Sklonuj repozytorium na swoje lokalne środowisko.
-2. Uruchom aplikację na swoim serwerze lokalnym lub w chmurze.
-3. Skonfiguruj wymagane zależności i środowisko uruchomieniowe.
-4. Uruchom aplikację i przetestuj jej funkcjonalności.
-
 ## Kontrybucja
 
 Aby przyczynić się do rozwoju projektu NOVAK-MED, zachęcamy do kontrybucji! Możesz pomóc poprawiając istniejące funkcje, dodając nowe funkcje, zgłaszając błędy oraz poprawiając dokumentację.
@@ -53,7 +46,8 @@ Brak gwarancji:
 Zachowanie informacji o prawach autorskich: Licencja MIT wymaga zachowania informacji o prawach autorskich i warunkach licencji we wszystkich kopjach oprogramowania.
 - Licencja MIT jest znana z swojej prostoty i elastyczności, co czyni ją popularną w społeczności open source. Pozwala na swobodne wykorzystywanie oprogramowania, nawet w projektach komercyjnych, pod warunkiem zachowania informacji o prawach autorskich i zrzeczenia się gwarancji ze strony autorów.
 
-## Kontakt
-Jeśli masz pytania lub sugestie dotyczące projektu NOVAK-MED, skontaktuj się z nami pod adresem adres-email@example.com. Jesteśmy otwarci na wszelkie opinie i chętnie pomożemy w razie potrzeby.
-
-Dziękujemy za zainteresowanie projektem NOVAK-MED i zapraszamy do współpracy!
+## Autorzy
+- Aleksandra Orłowska
+- Piotr Szymocha
+- Seweryn Krawczyk
+- Szymon Turkiewicz
